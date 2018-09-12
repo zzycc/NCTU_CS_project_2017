@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/yuche/.android/build-cache/065a56c47366cf2a2b078fdf3ca7ea0f957f8be6/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/yuche/.android/build-cache/065a56c47366cf2a2b078fdf3ca7ea0f957f8be6/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/yuche/.android/build-cache/065a56c47366cf2a2b078fdf3ca7ea0f957f8be6/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/yuche/.android/build-cache/065a56c47366cf2a2b078fdf3ca7ea0f957f8be6/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/yuche/.android/build-cache/065a56c47366cf2a2b078fdf3ca7ea0f957f8be6/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/yuche/.android/build-cache/065a56c47366cf2a2b078fdf3ca7ea0f957f8be6/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

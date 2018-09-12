@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/yuche/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_16c9acd13ee9758b86ee3483a0f6003f585da28b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/message_generation/0.3.0/5141e448f0ea6a2d6f539219d4fc9b296ff07ca4/message_generation-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5141e448f0ea6a2d6f539219d4fc9b296ff07ca4">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/message_generation-0.3.0_1244b97e1bcd1e34905dc6931473dbd896d51917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/7657caf2c78e1d79c74d36f2ae128a115f7cc180/com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.logging-1.1.1_25b0bbcf9a6e0bca9b17a2377ea6d4aa52cd0d01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_common/0.3.5/f5de19f4f6ee9a84f08e27255f1baaa69401a979/apache_xmlrpc_common-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5de19f4f6ee9a84f08e27255f1baaa69401a979">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/apache_xmlrpc_common-0.3.5_3b737d96a95fd83473c14ee6fb5cfc9e02d76163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.1/5708df81cf6dbff545695f0be6380b7bbc85accc/dnsjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/dnsjava-2.1.1_fd9e5679295174ee87b0224038fe4ccec730ab28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava/0.3.5/7320e6ff76abf066da6850f44f3dcb05f890e043/rosjava-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7320e6ff76abf066da6850f44f3dcb05f890e043">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/rosjava-0.3.5_8d58355c8818b97e5dea5962174b3a5bc1407af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/jsr305-1.3.9_6ef931b632914df114da8dbda0c699e5e47eeeb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.5.2.Final/e6fb74a0699abe108969b2ec1f269391169a0426/netty-3.5.2.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/netty-3.5.2.Final_185dd35cadc68e38f3c49fb702d117c45c1b00ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosgraph_msgs/1.11.2/adb731dd5181976b23c217872f61c724a3af70fe/rosgraph_msgs-1.11.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="adb731dd5181976b23c217872f61c724a3af70fe">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/rosgraph_msgs-1.11.2_ccdc70b72fe666b1f5b11822957fbe12f75cdfdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.net-2.0.0_e25fb5fb8453314b4c206853ffde654d6a2bca9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/commons-pool-1.6_5875b8304b7df2460e6868a134becbc78fa0fb71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosjava_test_msgs/0.3.0/d81caa572200690bdeadf5c257f0d09d77623c1a/rosjava_test_msgs-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81caa572200690bdeadf5c257f0d09d77623c1a">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/rosjava_test_msgs-0.3.0_2cfce1c51acee145b215c495058bfd56eca80d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.apache.ws.commons/ws-commons-util/1.0.1/126e80ff798fece634bc94e61f8be8a8da00be60/ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/ws-commons-util-1.0.1_c52328c61c2a2e05ca4bdf1883a493d950caf70d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_server/0.3.5/131944a67ea232fe8c64b9ef3223be2e0070ad2b/apache_xmlrpc_server-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="131944a67ea232fe8c64b9ef3223be2e0070ad2b">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/apache_xmlrpc_server-0.3.5_4ca1d147c08a4aab2f1f7ab97555713413f17872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/c493a925a091ac3d8f449d9265fe12482dabb2a7/com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.httpclient-3.1.0_e732d52ebdca99066acdfd69b1b26f25ba6f21ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.lang/2.4.0/686e3713650c8e3a5d98723b4d3e239586bf9822/com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.lang-2.4.0_85cf624c248aefd33d1eb47bb38824646ba2012c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/gradle_plugins/0.3.0/9915d897f3b5049e99b268068978a1bca0ae7b5d/gradle_plugins-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9915d897f3b5049e99b268068978a1bca0ae7b5d">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/gradle_plugins-0.3.0_d87a9d46ff4b095cfbc25b5310729144ff28277c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.io-1.4.0_ffcfc8e30f5143c95ad89e00379267f7741568a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_client/0.3.5/71e810ad6cb0d81a75737accb2863e170f59c142/apache_xmlrpc_client-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71e810ad6cb0d81a75737accb2863e170f59c142">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/apache_xmlrpc_client-0.3.5_72d8562e07e1391eaf4eed5bc27ad63735db0194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_a61c84d028ecf0945b59438245ba00ba27b6d68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava_geometry/0.3.5/b9f85e52141b00356efbb0eebe3f2fd9988a8be4/rosjava_geometry-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9f85e52141b00356efbb0eebe3f2fd9988a8be4">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/rosjava_geometry-0.3.5_c010d123fa91fde3f235bb0884da6f990becc24d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/guava-12.0_ce924af53eaabc32f389ccf48c0bedf2a62c135a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yuche/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.codec/1.3.0/f8690570eb0913d750262bb4223eed30b0d619ed/com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8690570eb0913d750262bb4223eed30b0d619ed">
+        <dex dex="/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.codec-1.3.0_144a56fad1a89e4b004b5bbcc903dcfdf0b0cd8b.jar" />
+    </item>
+
+</items>

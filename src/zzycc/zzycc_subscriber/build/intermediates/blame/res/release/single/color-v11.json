@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/yuche/.android/build-cache/5c2c49730f3edd2b672b6379f0762daa2384ade3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/yuche/myandroid/src/zzycc/zzycc_subscriber/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/yuche/.android/build-cache/5c2c49730f3edd2b672b6379f0762daa2384ade3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
